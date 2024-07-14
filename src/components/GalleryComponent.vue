@@ -20,7 +20,7 @@ const vfOptions = shallowReactive({
 });
 
 const vfRscs = shallowReactive([
-  new Img("/src/assets/imgs/img1.png", "Frota."),
+  new Img("https://img.freepik.com/fotos-gratis/muitos-caminhoes-de-transporte-estacionados-em-uma-estacao-de-servico-ao-por-do-sol-ai-generative_123827-23416.jpg", "Frota."),
   new Img("/src/assets/imgs/img2.png", "Frete."),
   new Img("/src/assets/imgs/img3.png", "Gerenciamento de cargas."),
 ]);
