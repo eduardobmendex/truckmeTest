@@ -21,8 +21,8 @@ const vfOptions = shallowReactive({
 
 const vfRscs = shallowReactive([
   new Img("https://img.freepik.com/fotos-gratis/muitos-caminhoes-de-transporte-estacionados-em-uma-estacao-de-servico-ao-por-do-sol-ai-generative_123827-23416.jpg", "Frota."),
-  new Img("/src/assets/imgs/img2.png", "Frete."),
-  new Img("/src/assets/imgs/img3.png", "Gerenciamento de cargas."),
+  new Img("https://img.freepik.com/fotos-gratis/logistica-e-transporte-de-navio-de-carga-de-conteineres-e-aviao-de-carga-com-ponte-de-guindaste-de-trabalho-no-estaleiro-ao-nascer-do-sol-importacao-exportacao-logistica-e-fundo-da-industria-de-transporte-ai-generative_123827-24177.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1710115200&semt=ais", "Frete."),
+  new Img("https://img.freepik.com/fotos-premium/carga-de-fundo-em-navios-de-carga-de-conteineres-para-negocios-de-importacao-e-exportacao_410516-14768.jpg?w=740", "Gerenciamento de cargas."),
 ]);
 
 const vfTransitions = shallowReactive([Book, Zip]);
